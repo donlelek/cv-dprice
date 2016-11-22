@@ -20,7 +20,7 @@ Charlottetown, PE C1A 5V8 \\
 | Address line 1
 | Address line 2
 
-\bigskip
+\ 
 
 Dear Sir or Madame,  
 
@@ -38,11 +38,11 @@ interview, you can contact me via email at
 [dpricer@gmail.com](mailto:dpricer@gmail.com).  
 
 
-\bigskip
+\ 
 
 Sincerely yours, 
 
-\bigskip
+\ 
 
 *Derek Price, DVM, PhDc*  
 
