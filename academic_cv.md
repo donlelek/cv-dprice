@@ -1,22 +1,24 @@
 ---
 title: '**DEREK PRICE**'
 output: pdf_document
-subtitle: dpricer@gmail.com\vspace{-3em}
+subtitle: dprice@upei.ca\vspace{-3em}
 fontfamily: times
 ---
 
 ---
 # CONTACT INFORMATION
->11-40 Palmers lane  
-Charlottetown, C1A 5V8  
+
+>550 University Avenue  
+Charlottetown, C1A 4P3  
 Canada  
 +1 (902) 330-1831  
-dpricer@gmail.com
+dprice@upei.ca
 
 # EDUCATION
-**Doctor of Philosophy** in Veterinary Epidemiology, 2017 (expected).
+
+**Doctor of Philosophy** in Veterinary Epidemiology, 2017.
 Atlantic Veterinary College - University of Prince Edward Island, Charlottetown, PE.
-Thesis: *Improving control measures against piscirickettsiosis in farmed salmonids in Chile*
+Thesis: *Improving the prevention and control of piscirickettsiosis in Chile*
 Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
 
 **Doctor of Veterinary Medicine**, 1998.
@@ -25,14 +27,18 @@ Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficie
 Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
 
 # PROFESSIONAL EXPERIENCE
+
+**Postdoctoral Fellow**, 2017 - Present.
+Canada Excellence Chair in Aquatic Epidemiology, Atlantic Veterinary College, UPEI, Charlottetown, Canada. Participated in the design and execution of several research projects in aquatic epiodemiology.
+
 **Fresh Water Health Manager**, 2010 - 2013.
-Invermar S.A., Puerto Montt. Managed the health of three hatcheries, two lake
+Invermar S.A., Puerto Montt, Chile. Managed the health of three hatcheries, two lake
 sites and supervised several rearing contracts, producing over 10  million Atlantic salmon,
 coho salmon and rainbow trout smolts per year. Established disease
 prevention policies and control strategies.
 
 **Veterinary Technical Support Manager**, 2009 - 2010.
-Aquagestion S.A., Puerto Montt. Managed a team of Veterinarians offering
+Aquagestion S.A., Puerto Montt, Chile. Managed a team of Veterinarians offering
 diagnostic services in aquaculture with branch offices in Santiago, Temuco,
 Puerto Montt, Puerto Aysén and Punta Arenas. Coordinated the activities
 performed by the team and provided technical support to the team as well as clients.
@@ -40,13 +46,13 @@ Participated in applied research in complex sanitary problems in different stage
 production cycle.
 
 **Fresh Water Veterinarian**, 2007 - 2008.
-Cultivos Yadran S.A., Quellon. Coordinated, executed and/or supervised
+Cultivos Yadran S.A., Quellon, Chile. Coordinated, executed and/or supervised
 activities such as vaccinations, sampling for official health control
 programs and health assessment for two hatcheries, one lake site and several
 facilities where rearing services were contracted.
 
 **Fish Health and environmental responsibilities Manager**, 2006 - 2007.
-Salmonífera Dalcahue Ltda., Dalcahue. Managed the health in five hatcheries and
+Salmonífera Dalcahue Ltda., Dalcahue, Chile. Managed the health in five hatcheries and
 one lake site that provided rearing services for other companies producing over
 15 million smolts and fry every year. Responsibilities also included activities to
 comply with sanitary and environmental regulations issued by Sernapesca
@@ -54,14 +60,14 @@ comply with sanitary and environmental regulations issued by Sernapesca
 (Sanitary Services Superintendency).
 
 **Fresh Water Veterinarian**, 2003 - 2006.
-Cultivos Marinos Chiloé Ltda., Ancud. Health management of four hatcheries and
+Cultivos Marinos Chiloé Ltda., Ancud, Chile. Health management of four hatcheries and
 one lake site as well as a number of rearing contracts. Provided prevention and control plans for
 diseases in fresh water stage. Assistant to the manager in production planing,
 traceability, production control and spending control for the Fresh water production
 department.
 
 **Laboratory Technician and Technical Support Veterinarian**, 2000 - 2002.
-Biovac S.A., Puerto Aysén. Diagnostic laboratory technician as well as technical
+Biovac S.A., Puerto Aysén, Chile. Diagnostic laboratory technician as well as technical
 advisor for fresh water and seawater farms in the Aysén Region.
 
 
@@ -69,15 +75,22 @@ advisor for fresh water and seawater farms in the Aysén Region.
 
 **Guest lecturer**, VHM 413. Fish Health, Spring 2016.
 Department of Health Management, University of Prince Edward Island,
-Charlottetown, PE. Presented 1 lecture on Data management for aquaculture
+Charlottetown, PE. Presented one lecture on Data management for aquaculture
 veterinarians.
 
 **Guest lecturer**, VHM 413. Fish Health, Spring 2014.
 Department of Health Management, University of Prince Edward Island,
-Charlottetown, PE. Presented 1 lecture on Considerations for treatment
+Charlottetown, PE. Presented one lecture on Considerations for treatment
 administration in finfish aquaculture.
 
 # PUBLICATIONS
+
+Gautam, R. Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
+Gustafson, L. 2018. *Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States*. Preventive Veterinary Medicine. *In preparation*
+ 
+**Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2018. *Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids*. Aquaculture. *Submitted*
+
+**Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2017. *Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis*. Preventive Veterinary Medicine. *Accepted*
 
 **Price, D.**, Ibarra, R., Sánchez, J., St-Hilaire, S., 2017.
 *A retrospective assessment of the effect of fallowing on piscirickettsiosis in Chile*.
@@ -90,7 +103,6 @@ Dis. Aquat. Org. 118, 227–35.
 St-Hilaire, S., **Price, D.**, Taylor, S., Groman, D., 2015.
 *Treatment of diplomonad intestinal parasites with magnesium sulphate at a commercial rainbow trout (Oncorhynchus mykiss) facility*.
 Can. Vet. J. 56, 876–8.
-
 
 # PRESENTATIONS
 
