@@ -1,8 +1,13 @@
 ---
 title: '**DEREK PRICE**'
-output: pdf_document
 subtitle: dprice@upei.ca\vspace{-3em}
+output: pdf_document
 fontfamily: times
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[CE,CO]{Derek Price, DVM PhD}
+- \fancyhead[RE,RO]{}
 ---
 
 ---
@@ -16,162 +21,128 @@ dprice@upei.ca
 
 # EDUCATION
 
-**Doctor of Philosophy** in Veterinary Epidemiology, 2017.
-Atlantic Veterinary College - University of Prince Edward Island, Charlottetown, PE.
-Thesis: *Improving the prevention and control of piscirickettsiosis in Chile*
-Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
+**Doctor of Philosophy** in Veterinary Epidemiology, 2017. University of Prince Edward Island, Charlottetown, PE, Canada.    
+Thesis: *Improving the prevention and control of piscirickettsiosis in Chile*. Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
 
-**Doctor of Veterinary Medicine**, 1998.
-Universidad Austral de Chile, Valdivia.
-Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficiency virus antibody in cats in the city of Valdivia*
-Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
+**Doctor of Veterinary Medicine**, 1998. Universidad Austral de Chile, Valdivia, Chile.    
+Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficiency virus antibody in cats in the city of Valdivia*. Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
+
+# RESEARCH EXPERIENCE
+
+2017 - Present. **Postdoctoral Fellow**.  
+*Canada Excellence Chair in Aquatic Epidemiology*, Atlantic Veterinary College, UPEI, Charlottetown, Canada. 
+
+## Projects
+
+- ISAV Spread
+- Infectivity of SRS
+- EMB tissue 
 
 # PROFESSIONAL EXPERIENCE
 
-**Postdoctoral Fellow**, 2017 - Present.
-Canada Excellence Chair in Aquatic Epidemiology, Atlantic Veterinary College, UPEI, Charlottetown, Canada. Participated in the design and execution of several research projects in aquatic epiodemiology.
+2010 - 2013. **Fresh Water Health Manager**.  
+*Invermar S.A.*, Puerto Montt, Chile. Established disease prevention policies and 
+control strategies for three hatcheries and two lake sites. Supervised several 
+rearing contracts. Produced over 10 million Atlantic salmon, coho salmon, and rainbow 
+trout smolts per year. 
 
-**Fresh Water Health Manager**, 2010 - 2013.
-Invermar S.A., Puerto Montt, Chile. Managed the health of three hatcheries, two lake
-sites and supervised several rearing contracts, producing over 10  million Atlantic salmon,
-coho salmon and rainbow trout smolts per year. Established disease
-prevention policies and control strategies.
+2009 - 2010. **Veterinary Technical Support Manager**.  
+*Aquagestion S.A.*, Puerto Montt, Chile. Team leader for 5 veterinarians and over 
+10 field technicians offering diagnostic services in aquaculture. Supervised branch 
+offices in Santiago, Temuco, Puerto Montt, Puerto Aysén and Punta Arenas. Provided 
+technical support for clients and participated in applied research projects.
 
-**Veterinary Technical Support Manager**, 2009 - 2010.
-Aquagestion S.A., Puerto Montt, Chile. Managed a team of Veterinarians offering
-diagnostic services in aquaculture with branch offices in Santiago, Temuco,
-Puerto Montt, Puerto Aysén and Punta Arenas. Coordinated the activities
-performed by the team and provided technical support to the team as well as clients.
-Participated in applied research in complex sanitary problems in different stages of the
-production cycle.
+2007 - 2008. **Fresh Water Veterinarian**.  
+*Cultivos Yadran S.A.*, Quellon, Chile. Coordinated and supervised activities such 
+as vaccinations, sampling for official health control programs. Provided technical 
+support for two hatcheries, one lake site, and several rearing contracts.
 
-**Fresh Water Veterinarian**, 2007 - 2008.
-Cultivos Yadran S.A., Quellon, Chile. Coordinated, executed and/or supervised
-activities such as vaccinations, sampling for official health control
-programs and health assessment for two hatcheries, one lake site and several
-facilities where rearing services were contracted.
+2006 - 2007. **Fish Health and environmental responsibilities Manager**.  
+*Salmonífera Dalcahue Ltda.*, Dalcahue, Chile. Established health policies and 
+supervised health managment for five hatcheries and one lake site. Provided rearing 
+services for other companies producing over 15 million smolts and fry every year.
+Responsibilities also included activities to comply with sanitary and environmental 
+regulations.
 
-**Fish Health and environmental responsibilities Manager**, 2006 - 2007.
-Salmonífera Dalcahue Ltda., Dalcahue, Chile. Managed the health in five hatcheries and
-one lake site that provided rearing services for other companies producing over
-15 million smolts and fry every year. Responsibilities also included activities to
-comply with sanitary and environmental regulations issued by Sernapesca
-(National Fisheries Service), SAG (Agricultural and Livestock Service), and SISS
-(Sanitary Services Superintendency).
+2003 - 2006. **Fresh Water Veterinarian**.  
+*Cultivos Marinos Chiloé Ltda.*, Ancud, Chile. Supervised fish health for four 
+hatcheries and one lake site as well as a number of rearing contracts. Designed and 
+established prevention and control plans for diseases in fresh water stage. 
+Assistant to the manager in production planing, traceability, production control, 
+and spending control.
 
-**Fresh Water Veterinarian**, 2003 - 2006.
-Cultivos Marinos Chiloé Ltda., Ancud, Chile. Health management of four hatcheries and
-one lake site as well as a number of rearing contracts. Provided prevention and control plans for
-diseases in fresh water stage. Assistant to the manager in production planing,
-traceability, production control and spending control for the Fresh water production
-department.
-
-**Laboratory Technician and Technical Support Veterinarian**, 2000 - 2002.
-Biovac S.A., Puerto Aysén, Chile. Diagnostic laboratory technician as well as technical
+2000 - 2002. **Laboratory Technician and Technical Support Veterinarian**.  
+*Biovac S.A.*, Puerto Aysén, Chile. Diagnostic laboratory technician and technical
 advisor for fresh water and seawater farms in the Aysén Region.
-
 
 # TEACHING EXPERIENCE
 
-**Guest lecturer**, VHM 413. Fish Health, Spring 2016.
+**Guest lecturer**, *VHM 413 - Fish Health.* Spring 2016.  
 Department of Health Management, University of Prince Edward Island,
-Charlottetown, PE. Presented one lecture on Data management for aquaculture
-veterinarians.
+Charlottetown, PE.  
+**Data management for aquaculture veterinarians.**
 
-**Guest lecturer**, VHM 413. Fish Health, Spring 2014.
+**Guest lecturer**, *VHM 413 - Fish Health.* Spring 2014.  
 Department of Health Management, University of Prince Edward Island,
-Charlottetown, PE. Presented one lecture on Considerations for treatment
-administration in finfish aquaculture.
+Charlottetown, PE.  
+**Considerations for treatment administration in finfish aquaculture.**
 
 # PUBLICATIONS
 
-Gautam, R. Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
-Gustafson, L. 2018. *Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States*. Preventive Veterinary Medicine. *In preparation*
- 
-**Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2018. *Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids*. Aquaculture. *Submitted*
+## In Preparation
 
-**Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2017. *Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis*. Preventive Veterinary Medicine. *Accepted*
+Gautam, R. Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
+Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States**. *Preventive Veterinary Medicine*.
+
+## Submitted
+ 
+**Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2018. **Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids**. *Aquaculture*.
+
+**Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2017. **Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis**. *Preventive Veterinary Medicine*.
+
+## Published (Peer-reviewed)
 
 **Price, D.**, Ibarra, R., Sánchez, J., St-Hilaire, S., 2017.
-*A retrospective assessment of the effect of fallowing on piscirickettsiosis in Chile*.
-Aquaculture. 473, 400–406.
+**A retrospective assessment of the effect of fallowing on piscirickettsiosis in Chile**.
+*Aquaculture* 473, 400–406.
 
 **Price, D.**, Stryhn, H., Sánchez, J., Ibarra, R., Tello, A., St-Hilaire, S., 2016.
-*Retrospective analysis of antibiotic treatments against piscirickettsiosis in farmed Atlantic salmon Salmo salar in Chile*.
-Dis. Aquat. Org. 118, 227–35.
+**Retrospective analysis of antibiotic treatments against piscirickettsiosis in farmed Atlantic salmon Salmo salar in Chile**.
+*Diseases of Aquatic Organisms* 118, 227–35.
 
 St-Hilaire, S., **Price, D.**, Taylor, S., Groman, D., 2015.
-*Treatment of diplomonad intestinal parasites with magnesium sulphate at a commercial rainbow trout (Oncorhynchus mykiss) facility*.
-Can. Vet. J. 56, 876–8.
+**Treatment of diplomonad intestinal parasites with magnesium sulphate at a commercial rainbow trout (Oncorhynchus mykiss) facility**.
+*Canadian Veterinary Journal* 56, 876–8.
 
 # PRESENTATIONS
 
-*Factores que predisponen a falla de un tratamiento con antibióticos y efecto
-de los descansos sanitarios sobre el riesgo de SRS*.Taller de Epidemiología,
-Programa para la gestión sanitaria en acuicultura, Sernapesca. Valparaíso,
-Chile. 2017
+**Factores que predisponen a falla de un tratamiento con antibióticos y efecto de los descansos sanitarios sobre el riesgo de SRS**.  Taller de Epidemiología, Programa para la gestión sanitaria en acuicultura, Sernapesca. *Valparaíso,
+Chile*. 2017
 
-*Risk factors for treatment failure in antibiotic treatments against
-Piscirickettsiosis in farmed Atlantic salmon in Chile*.  Atlantic
+**Risk factors for treatment failure in antibiotic treatments against
+Piscirickettsiosis in farmed Atlantic salmon in Chile**. Atlantic
 Canada Fish Farmers Association Annual Conference.
-St. Andrews, NB, Canada. 2016
+*St. Andrews, NB, Canada*. 2016
 
-*Risk factors for treatment failure in antibiotic treatments against
-Piscirickettsiosis in farmed Atlantic salmon in Chile*.  AquaEpi I. Oslo, Norway.
+**Risk factors for treatment failure in antibiotic treatments against
+Piscirickettsiosis in farmed Atlantic salmon in Chile**. AquaEpi I. *Oslo, Norway*.
 2016
 
-*Effectiveness of antibiotic treatments against piscirickettsiosis in farmed
-Atlantic salmon (*Salmo salar*) in Chile*. 24th Annual GS&R days. Charlottetown,
-PE, Canada. 2016
+**Effectiveness of antibiotic treatments against piscirickettsiosis in farmed
+Atlantic salmon (*Salmo salar*) in Chile**. 24th Annual GS&R days. *Charlottetown,
+PE, Canada*. 2016
 
-*Efectividad de tratamientos antimicrobianos contra piscirickettsiosis en salmón
-del atlántico (*Salmo salar L.*) en Chile*. V Jornadas de Investigación en
-Salmonicultura. Puerto Varas, Chile. 2015
+**Efectividad de tratamientos antimicrobianos contra piscirickettsiosis en salmón
+del atlántico (*Salmo salar L.*) en Chile**. V Jornadas de Investigación en
+Salmonicultura. *Puerto Varas, Chile*. 2015
 
-*Antibiotic treatment of bacterial diseases in large salmon populations*. Atlantic
-Canada Fish Farmers Association Annual Conference. St. Andrews, NB, Canada. 2014
+**Antibiotic treatment of bacterial diseases in large salmon populations**. Atlantic
+Canada Fish Farmers Association Annual Conference. *St. Andrews, NB, Canada*. 2014
 
 # AWARDS
 
 **CERC early career development grant**. Canada Excellence Research Chair in
-Aquatic Epidemiology, University of Prince Edward Island. May 2015.
+Aquatic Epidemiology, University of Prince Edward Island. 2015
 
 **CERC Ph.D. 3-year scholarship**. Canada Excellence Research Chair in
-Aquatic Epidemiology, University of Prince Edward Island. 2014.
-
-# REFERENCES
-
->**Sophie St-Hilaire**, *DVM*, *MSc*, *PhD*  
-Associate Professor  
-Canada Research Chair (Sustainable Aquaculture)  
-Department of Health Management  
-Atlantic Veterinary College, 338N  
-University of Prince Edward Island  
-550 University Avenue  
-Charlottetown, PE C1A 4P3  
-Canada  
-(902) 620-5190  
-ssthilaire@upei.ca
-
->**Javier Sánchez**, *DVM*, *PhD*  
-Associate Professor  
-Department of Health Management  
-Atlantic Veterinary College, 330N  
-University of Prince Edward Island  
-550 University Avenue  
-Charlottetown, PE C1A 4P3  
-Canada  
-(902) 566-0803  
-jsanchez@upei.ca
-
->**Ian Gardner**, *DVM*, *MPVM*, *PhD*  
-Professor  
-Canada Excellence Research Chair (Aquatic Epidemiology)  
-Department of Health Management  
-Atlantic Veterinary College, 325N  
-University of Prince Edward Island  
-550 University Avenue  
-Charlottetown, PE C1A 4P3  
-Canada  
-(902) 620-5059  
-iagardner@upei.ca
+Aquatic Epidemiology, University of Prince Edward Island. 2014
