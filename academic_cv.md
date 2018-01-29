@@ -3,11 +3,13 @@ title: '**DEREK PRICE**'
 subtitle: dprice@upei.ca\vspace{-3em}
 output: pdf_document
 fontfamily: times
+geometry: margin=1in
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \fancyhead[CE,CO]{Derek Price, DVM PhD}
 - \fancyhead[RE,RO]{}
+- \fancyhead[LE,LO]{}
 ---
 
 ---
@@ -21,11 +23,11 @@ dprice@upei.ca
 
 # EDUCATION
 
-**Doctor of Philosophy** in Veterinary Epidemiology, 2017. University of Prince Edward Island, Charlottetown, PE, Canada.    
-Thesis: *Improving the prevention and control of piscirickettsiosis in Chile*. Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
+**Doctor of Philosophy** in Veterinary Epidemiology, 2017.   
+University of Prince Edward Island, Charlottetown, PE, Canada. Thesis: *Improving the prevention and control of piscirickettsiosis in Chile*. Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
 
-**Doctor of Veterinary Medicine**, 1998. Universidad Austral de Chile, Valdivia, Chile.    
-Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficiency virus antibody in cats in the city of Valdivia*. Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
+**Doctor of Veterinary Medicine**, 1998.  
+Universidad Austral de Chile, Valdivia, Chile.    Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficiency virus antibody in cats in the city of Valdivia*. Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
 
 # RESEARCH EXPERIENCE
 
