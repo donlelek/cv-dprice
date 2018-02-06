@@ -1,5 +1,5 @@
 ---
-title: '**DEREK PRICE**\vspace{-3.5em}'
+title: '**DEREK PRICE**\vspace{-1em}'
 output: pdf_document
 fontfamily: times
 geometry: margin=1in
@@ -38,13 +38,13 @@ Atlantic Veterinary College, UPEI, Charlottetown, Canada.
  
 # PROFESSIONAL EXPERIENCE
 
-**Fresh Water Health Manager**. Invermar S.A., Puerto Montt, Chile. *2010 -- 2013*   
+**Fresh Water Veterinarian**. Invermar S.A., Puerto Montt, Chile. *2010 -- 2013*   
 
-- Established disease prevention policies and control strategies for three hatcheries and two lake sites. 
+- Established disease prevention policies and control strategies for three hatcheries and two lake sites.
 - Supervised several rearing contracts. 
 - Produced over 10 million Atlantic salmon, coho salmon, and rainbow trout smolts per year. 
 
-**Veterinary Technical Support Manager**. Aquagestion S.A., Puerto Montt, Chile. *2009 -- 2010*   
+**Chief Veterinary Services**. Aquagestion S.A., Puerto Montt, Chile. *2009 -- 2010*   
 
 - Lead team of 5 veterinarians and over 10 field technicians offering diagnostic services in aquaculture.
 - Supervised branch offices in Santiago, Temuco, Puerto Montt, Puerto Aysén, and Punta Arenas. 
@@ -55,11 +55,13 @@ Atlantic Veterinary College, UPEI, Charlottetown, Canada.
 - Coordinated and supervised activities such as vaccinations, sampling for official health control programs.
 - Provided veterinary services for two hatcheries, one lake site, and several rearing contracts.
 
-**Fish health manager**. Cía. Salmonífera Dalcahue Ltda., Dalcahue, Chile.  *2006 -- 2007*  
+**Health manager**. Cía. Salmonífera Dalcahue Ltda., Dalcahue, Chile.  *2006 -- 2007*  
 
 - Established health policies and supervised health managment for five hatcheries and one lake site to
 comply with sanitary and environmental regulations.
 - Provided rearing services for other companies producing over 15 million smolts and fry every year.
+
+\pagebreak
 
 **Fresh Water Veterinarian**. Cultivos Marinos Chiloé Ltda., Ancud, Chile. *2003 -- 2006*  
 
@@ -176,6 +178,24 @@ UPEI Climate lab. Charlottetown, PE, Canada. *2014*
 
 # COMMUNITY SERVICE
 
-**Vice President**, Home & School Board, Parkdale Elementary. Charlottetown, PE, Canada. *2017 -- 2018*
+**Vice President**, Home & School Board, Parkdale Elementary. Charlottetown, PE, Canada. *2017 -- Present*
 
 **President**, Veterinary student association. Universidad Austral de Chile, Valdivia, Chile. *1994 -- 1995*
+
+# REFERENCES
+
+
+| **Sophie St-Hilaire**, DVM, MSc, PhD, MBA
+| Professor of Aquatic Animal Health
+| Department of Infectious Diseases and Public Health, College of Veterinary Medicine and Life Sciences
+| City University of Hong Kong, Kowloon, Hong Kong
+
+| **Javier Sánchez**, DVM, PhD
+| Associate professor, Epidemiology
+| Department of Health Management, Atlantic Veterinary College, University of Prince Edward Island, 
+| Charlottetown, Canada
+
+| **Ian Gardner**, DVM, MPVM, PhD
+| Professor and Canada Excellence Research Chair (Aquatic Epidemiology)
+| Department of Health Management, Atlantic Veterinary College, University of Prince Edward Island, 
+| Charlottetown, Canada

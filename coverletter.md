@@ -1,8 +1,8 @@
 ---
 fontfamily: times
-fontsize: 12pt
+fontsize: 11pt
 linestretch: 1.15
-geometry: margin=1in
+geometry: margin=1.5in
 output: pdf_document
 --- 
 
@@ -11,7 +11,7 @@ output: pdf_document
 | Atlantic Veterinary College, Department of Health Management
 | University of Prince Edward Island
 | Charlottetown, PEI
-| Ref: www.upei.ca/hr/competition/03a18
+| *Ref: www.upei.ca/hr/competition/03a18*
 
 
 \ 
@@ -20,10 +20,10 @@ January 29, 2018
 
 \ 
 
-Dear Selection Committee,  
+**Dear Selection Committee,**  
 
 I would like to submit my application for the Infectious Disease Epidemiologist 
-position (competition 031A18) for the Department of Health Management at the 
+position (competition **031A18**) for the Department of Health Management at the 
 Atlantic Veterinary College (AVC). I am a veterinarian with a PhD in epidemiology
 recently awarded by the University of Prince Edward Island. I am currently working 
 as a Postdoctoral Research Fellow for the Canada Excellence Chair in Aquatic Epidemiology 
@@ -80,9 +80,10 @@ Sincerely yours,
 \ 
 
 
-| *Derek Price, DVM, PhD*
+| **Derek Price,** DVM, PhD
 | 550 University Avenue
-| Charlottetown, PE C1A 4P3
+| Charlottetown, PEI 
+| Canada, C1A 4P3
 | [dprice@upei.ca](mailto:dprice@upei.ca).
 | +1 (902) 316-1831
 
