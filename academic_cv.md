@@ -75,6 +75,7 @@ comply with sanitary and environmental regulations.
 - Carried out laboratory assays such as ELISA, IFAT, RT-PCR, and culture of bacteria and virus.
 - Provided veterinary services for fresh water and seawater farms in the Aysén Region.
 
+
 # TEACHING EXPERIENCE
 
 **Guest lecturer**, Fish Health (VHM-413). *Spring 2016*.  
@@ -83,20 +84,23 @@ Department of Health Management, University of Prince Edward Island.
 **Guest lecturer**, Fish Health (VHM-413). *Spring 2014*.  
 Department of Health Management, University of Prince Edward Island.
 
-# PUBLICATIONS
 
-## In Preparation
-
-Gautam, R., Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
-Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States**. *Preventive Veterinary Medicine*.
+# PEER-REVIEWED PUBLICATIONS
 
 ## Submitted
- 
+
 **Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2018. **Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids**. *Aquaculture*.
 
-**Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2017. **Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis**. *Preventive Veterinary Medicine*.
+## Accepted
 
-## Published (Peer-reviewed)
+Gautam, R., Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
+Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States**. *Prev. Vet. Med.*
+
+St-Hilaire, S., Notfall, S., **Price, D.**, Boyce, B., Morrison, D. 2018. **Evaluating the concentration of emamectin benzoate in Atlantic salmon tissues after sea lice treatments**. *Prev. Vet. Med.*
+
+## Published
+
+**Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2018. **Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis**. *Prev. Vet. Med.* 156, 16-21.
 
 **Price, D.**, Ibarra, R., Sánchez, J., St-Hilaire, S., 2017.
 **A retrospective assessment of the effect of fallowing on piscirickettsiosis in Chile**.
@@ -104,19 +108,24 @@ Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to min
 
 **Price, D.**, Stryhn, H., Sánchez, J., Ibarra, R., Tello, A., St-Hilaire, S., 2016.
 **Retrospective analysis of antibiotic treatments against piscirickettsiosis in farmed Atlantic salmon Salmo salar in Chile**.
-*Diseases of Aquatic Organisms* 118, 227–35.
+*Dis. Aquat. Org.* 118, 227–35.
 
 St-Hilaire, S., **Price, D.**, Taylor, S., Groman, D., 2015.
 **Treatment of diplomonad intestinal parasites with magnesium sulphate at a commercial rainbow trout (Oncorhynchus mykiss) facility**.
-*Canadian Veterinary Journal* 56, 876–8.
+*Can. Vet. J.* 56, 876–8.
+
 
 # AWARDS
+
+**Short-term placement, Copenhagen University** (CAD $4,580). Canada Excellence Research Chair in
+Aquatic Epidemiology, University of Prince Edward Island. *2018*
 
 **Early career development grant** (CAD $2,215). Canada Excellence Research Chair in
 Aquatic Epidemiology, University of Prince Edward Island. *2015*
 
 **PhD 3-year scholarship** (CAD $51,000 per year). Canada Excellence Research Chair in
 Aquatic Epidemiology, University of Prince Edward Island. *2014*
+
 
 # PRESENTATIONS
 
@@ -145,28 +154,37 @@ Salmonicultura. Puerto Varas, Chile. *2015*
 **Antibiotic treatment of bacterial diseases in large salmon populations**. Atlantic
 Canada Fish Farmers Association Annual Conference. St. Andrews, NB, Canada. *2014*
 
+
 # PROFESSIONAL DEVELOPMENT
 
-## Epi on the Island workshops (Centre for Veterinary Epidemiological Research, UPEI)
+## Epi on the Island summer courses (Centre for Veterinary Epidemiological Research, UPEI)
 
-**Introduction to multilevel modelling**. Dohoo, I., Stryhn, H., Sanchez, J. *2016*   
-**Survival analysis**. Dohoo, I., Stryhn, H., Sanchez, J. *2015*   
-**Time series regression**. Armstrong, B. and Stryhn, H. *2015*   
-**Bias in observational studies**. Dohoo, I. and Stryhn, H. *2014*   
-**Bioinformatics for veterinary epidemiologists**. Durr, P. and Halpin, K. *2014*   
+**Multivariate Visualisation and Analysis**. Revie, C., Stryhn, H., McEwan, G. *2018*
+
+**Introduction to multilevel modelling**. Dohoo, I., Stryhn, H., Sanchez, J. *2016*
+
+**Survival analysis**. Dohoo, I., Stryhn, H., Sanchez, J. *2015*
+
+**Time series regression**. Armstrong, B. and Stryhn, H. *2015*
+
+**Bias in observational studies**. Dohoo, I. and Stryhn, H. *2014*
+
+**Bioinformatics for veterinary epidemiologists**. Durr, P. and Halpin, K. *2014*
 
 ## Other workshops
 
-**Networking Skills**. Johnstone, K., Mitacs. Charlottetown, PE, Canada. *2017*  
+**Networking Skills**. Johnstone, K., Mitacs. Charlottetown, PE, Canada. *2017*
 
 **Statistical downscaling of global climate models: SDSM 5.1.1.** Jien, J., 
 UPEI Climate lab. Charlottetown, PE, Canada. *2014*  
+
 
 # CERTIFICATIONS
 
 **HACCP auditor**. SERNAPESCA. Puerto Montt, Chile. *2010*
 
 **ISO-NCh 17025 Of. 2005 auditor**. Instituto de Salud Pública. Puerto Montt, Chile. *2009*
+
 
 # SKILLS
 
@@ -176,11 +194,13 @@ UPEI Climate lab. Charlottetown, PE, Canada. *2014*
 
 **Other Software:** GIT, QGIS, AnyLogic, MLWin, MS-Office, FishTalk.
 
+
 # COMMUNITY SERVICE
 
 **Vice President**, Home & School Board, Parkdale Elementary. Charlottetown, PE, Canada. *2017 -- Present*
 
 **President**, Veterinary student association. Universidad Austral de Chile, Valdivia, Chile. *1994 -- 1995*
+
 
 # REFERENCES
 
