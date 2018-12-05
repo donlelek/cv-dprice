@@ -113,10 +113,13 @@ St-Hilaire, S., **Price, D.**, Taylor, S., Groman, D., 2015.
 
 # AWARDS
 
+**Early career development grant, attendance to ISVEE 15 in Chiang Mai, Thailand** (CAD $3,185). Canada Excellence Research Chair in
+Aquatic Epidemiology, University of Prince Edward Island. *2018*
+
 **Short-term placement, Copenhagen University** (CAD $4,580). Canada Excellence Research Chair in
 Aquatic Epidemiology, University of Prince Edward Island. *2018*
 
-**Early career development grant** (CAD $2,215). Canada Excellence Research Chair in
+**Early career development grant, attendance to AquaEpi I in Oslo, Norway** (CAD $2,215). Canada Excellence Research Chair in
 Aquatic Epidemiology, University of Prince Edward Island. *2015*
 
 **PhD 3-year scholarship** (CAD $51,000 per year). Canada Excellence Research Chair in
