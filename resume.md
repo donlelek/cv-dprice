@@ -15,7 +15,7 @@ header-includes:
 \begin{center}
 550 University Avenue, Charlottetown, PEI, C1A4P3, Canada \\
 + 1 (902) 330-1831 -- dprice@upei.ca \\
-Updated: November 2018
+Updated: September 2018
 \end{center}
 
 # EDUCATION
@@ -27,7 +27,7 @@ Supervisors: Sophie St-Hilaire, DVM, MSc, PhD - Javier Sánchez, DVM, PhD
 **DVM**. Universidad Austral de Chile. *1998*  
 Thesis: *Detection of the Feline leukemia virus antigen and Feline immunodeficiency virus antibody in cats in the city of Valdivia*. Supervisor: Germán Reinhardt, DVM, Dr.med.vet.
 
-# RESEARCH EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 
 **Postdoctoral Fellow**. Canada Excellence Chair in Aquatic Epidemiology. *2017 -- Present*  
 Atlantic Veterinary College, UPEI, Charlottetown, Canada.   
@@ -36,8 +36,6 @@ Atlantic Veterinary College, UPEI, Charlottetown, Canada.
 - Assessed the infectivity of SRS using a discrete-time survival model.
 - Investigated tissue concentration of Emamectine benzoate during oral treatments. 
  
-# PROFESSIONAL EXPERIENCE
-
 **Fresh Water Veterinarian**. Invermar S.A., Puerto Montt, Chile. *2010 -- 2013*   
 
 - Established disease prevention policies and control strategies for three hatcheries and two lake sites.
@@ -61,8 +59,6 @@ Atlantic Veterinary College, UPEI, Charlottetown, Canada.
 comply with sanitary and environmental regulations.
 - Provided rearing services for other companies producing over 15 million smolts and fry every year.
 
-\pagebreak
-
 **Fresh Water Veterinarian**. Cultivos Marinos Chiloé Ltda., Ancud, Chile. *2003 -- 2006*  
 
 - Supervised fish health for four hatcheries and one lake site as well as a number of rearing contracts. 
@@ -76,25 +72,14 @@ comply with sanitary and environmental regulations.
 - Provided veterinary services for fresh water and seawater farms in the Aysén Region.
 
 
-# TEACHING EXPERIENCE
-
-**Guest lecturer**, Fish Health (VHM-413). *Spring 2016*.  
-Department of Health Management, University of Prince Edward Island.
-
-**Guest lecturer**, Fish Health (VHM-413). *Spring 2014*.  
-Department of Health Management, University of Prince Edward Island.
-
-
 # PEER-REVIEWED PUBLICATIONS
 
-## Published
+**Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2018. **Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids**. *Aquaculture*.
 
-**Price, D.**, Sánchez, J., Ibarra, R., St-Hilaire, S., 2019. **Variation in the concentration of antibiotics in tissue during oral antibiotic treatments in farmed salmonids**. *Aquaculture*. 498, 587-593.
-
-St-Hilaire, S., Notfall, S., **Price, D.**, Boyce, B., Morrison, D. 2019. **Evaluating the concentration of emamectin benzoate in Atlantic salmon tissues after sea lice treatments**. *Prev. Vet. Med.* 498, 464-469.
+St-Hilaire, S., Notfall, S., **Price, D.**, Boyce, B., Morrison, D. 2018. **Evaluating the concentration of emamectin benzoate in Atlantic salmon tissues after sea lice treatments**. *Prev. Vet. Med.*
 
 Gautam, R., Gardner, I.A., Klotins, K., Revie, C., Vanderstichel, R., **Price, D.**, Beattie, M., 
-Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States**. *Prev. Vet. Med.* 159, 92-98.
+Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to minimize spread of infectious salmon anaemia virus (ISAv) among neighbouring marine sites in eastern Canada and the United States**. *Prev. Vet. Med.*
 
 **Price, D.**, Sánchez, J., McClure, J., McConkey, S., Ibarra, R., St-Hilaire, S., 2018. **Assessing concentration of antibiotics in tissue during oral treatments against piscirickettsiosis**. *Prev. Vet. Med.* 156, 16-21.
 
@@ -109,76 +94,6 @@ Gustafson, L. 2018. **Risk-ranking of Atlantic salmon (Salmo salar) farms to min
 St-Hilaire, S., **Price, D.**, Taylor, S., Groman, D., 2015.
 **Treatment of diplomonad intestinal parasites with magnesium sulphate at a commercial rainbow trout (Oncorhynchus mykiss) facility**.
 *Can. Vet. J.* 56, 876–8.
-
-
-# AWARDS
-
-**Short-term placement, Copenhagen University** (CAD $4,580). Canada Excellence Research Chair in
-Aquatic Epidemiology, University of Prince Edward Island. *2018*
-
-**Early career development grant** (CAD $2,215). Canada Excellence Research Chair in
-Aquatic Epidemiology, University of Prince Edward Island. *2015*
-
-**PhD 3-year scholarship** (CAD $51,000 per year). Canada Excellence Research Chair in
-Aquatic Epidemiology, University of Prince Edward Island. *2014*
-
-
-# PRESENTATIONS AND POSTERS
-
-**Concentration of antibiotics in tissue during in-feed oral treatments against piscirickettsiosis in farmed salmonids in Chile**.
-ISVEE 15, Chang Mai, Thailand. *2018*
-  
-**A retrospective assessment of the effect of fallowing on piscirickettsiosis in Chile**.
-ISAAH Meeting. Charlottetown, PE, Canada. *2018*
-
-**Factores que predisponen a falla de un tratamiento con antibióticos y efecto de 
-los descansos sanitarios sobre el riesgo de SRS**.
-Taller de Epidemiología, Programa para la gestión sanitaria en acuicultura, Sernapesca. 
-Valparaíso, Chile. *2017*
-
-**Risk factors for treatment failure in antibiotic treatments against
-Piscirickettsiosis in farmed Atlantic salmon in Chile**. Atlantic
-Canada Fish Farmers Association Annual Conference.
-St. Andrews, NB, Canada. *2016*
-
-**Risk factors for treatment failure in antibiotic treatments against
-Piscirickettsiosis in farmed Atlantic salmon in Chile**. AquaEpi I. Oslo, Norway.
-*2016*
-
-**Effectiveness of antibiotic treatments against piscirickettsiosis in farmed
-Atlantic salmon (*Salmo salar*) in Chile**. 24th Annual Graduate Studies and Research days,
-UPEI. Charlottetown, PE, Canada. *2016*
-
-**Efectividad de tratamientos antimicrobianos contra piscirickettsiosis en salmón
-del atlántico (*Salmo salar L.*) en Chile**. V Jornadas de Investigación en
-Salmonicultura. Puerto Varas, Chile. *2015*
-
-**Antibiotic treatment of bacterial diseases in large salmon populations**. Atlantic
-Canada Fish Farmers Association Annual Conference. St. Andrews, NB, Canada. *2014*
-
-
-# PROFESSIONAL DEVELOPMENT
-
-## Epi on the Island summer courses (Centre for Veterinary Epidemiological Research, UPEI)
-
-**Multivariate Visualisation and Analysis**. Revie, C., Stryhn, H., McEwan, G. *2018*
-
-**Introduction to multilevel modelling**. Dohoo, I., Stryhn, H., Sanchez, J. *2016*
-
-**Survival analysis**. Dohoo, I., Stryhn, H., Sanchez, J. *2015*
-
-**Time series regression**. Armstrong, B. and Stryhn, H. *2015*
-
-**Bias in observational studies**. Dohoo, I. and Stryhn, H. *2014*
-
-**Bioinformatics for veterinary epidemiologists**. Durr, P. and Halpin, K. *2014*
-
-## Other workshops
-
-**Networking Skills**. Johnstone, K., Mitacs. Charlottetown, PE, Canada. *2017*
-
-**Statistical downscaling of global climate models: SDSM 5.1.1.** Jien, J., 
-UPEI Climate lab. Charlottetown, PE, Canada. *2014*  
 
 
 # CERTIFICATIONS
@@ -202,24 +117,3 @@ UPEI Climate lab. Charlottetown, PE, Canada. *2014*
 **Vice President**, Home & School Board, Parkdale Elementary. Charlottetown, PE, Canada. *2017 -- Present*
 
 **President**, Veterinary student association. Universidad Austral de Chile, Valdivia, Chile. *1994 -- 1995*
-
-<!--
-# REFERENCES
-
-
-| **Sophie St-Hilaire**, DVM, MSc, PhD, MBA
-| Professor of Aquatic Animal Health
-| Department of Infectious Diseases and Public Health, College of Veterinary Medicine and Life Sciences
-| City University of Hong Kong, Kowloon, Hong Kong
-
-| **Javier Sánchez**, DVM, PhD
-| Associate professor, Epidemiology
-| Department of Health Management, Atlantic Veterinary College, University of Prince Edward Island, 
-| Charlottetown, Canada
-
-| **Ian Gardner**, DVM, MPVM, PhD
-| Professor and Canada Excellence Research Chair (Aquatic Epidemiology)
-| Department of Health Management, Atlantic Veterinary College, University of Prince Edward Island, 
-| Charlottetown, Canada
-
--->
